@@ -1,0 +1,13 @@
+1. it quickly points out differencies in two files, so it's easy to see what could possibly be wrong in a code. 
+2. It'll save my time while debugging, as it's the most time consuming process in programming. It also allow me to get to previous version of my code, if I decide to go back and use old code.
+3. Pros and cons of manual commitment vs auto commit.
+    pros (of manual): by commiting manually I can assign a logical meaning to each commit
+    cons: I may accidently forget to save my work and commit.
+4. git log and git diff (how can i use them to view the history of files)
+    git log allows me to see all history commits, commit id, data and author
+    git diff shows the difference between files. 
+
+5. How using version control makes me more comfortable when making changes.
+    it's because I'm sure I can always go back to working version of code.
+6. How do want to use GIT?
+    I want to store my code using it.

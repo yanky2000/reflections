@@ -1,0 +1,3 @@
+lesson2.
+1.What happens when you initialize a repository? Why do you need to do it?
+    git created a .git directory and it's ready now to track changes.
