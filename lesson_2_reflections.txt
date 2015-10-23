@@ -6,3 +6,4 @@ lesson2.
 4. How would branches help? - What are situation when branches would be helpful in keeping your history organized? When I want to experiment a diffrernt direction in coding (let's say a diffrernt approach), but want to perserve the orginal version of files. Adding a branch would help to work on 2, without affecting each other. 
 5. How do the diagrams help you visualize the branch structure? It's a lot easier to see what commits would be unreachable and when to start a new branch
 6. What is the result of merging two branches together? Why showing it in a map? Map helps to track which commits may be missed if merge branches. It helps to track when actually to merge commits.
+7. Automatic merge vs manual merge. Pros and cons: Manual merge allows me to chosse what exactly I want to merge, instead of letting git decide what to mege and how. 
