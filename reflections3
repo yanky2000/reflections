@@ -1,2 +1,4 @@
 When would I want to create remote repository rather than keeping all files locally.
   it's useful when working on a big projects
+Why might you want to always pull changes manually rather than having GitHub automatically stay up-to-date with you remote repository?
+	Because there could be some changes I've done, and they may conflict with some changes someone else has done.
