@@ -6,4 +6,7 @@ Why might you want to always pull changes manually rather than having GitHub aut
 3.Describe differencies between fork, clones and branches. When would you use one instead of another?
 	- forks are useful when downloading someone else's work (repository) and working with them without affecting original repository (files). I could also contribute to the original repository if my work is accepted.
 	- clones are used when just coping other people's work (repo) to my local machine. 
-	- branches - use them when taking other direction (experimental) without affecting master branch.
+	- branches - use them when taking other direction (experimental) without affecting master branch - .
+
+4. What is the benefit of having a copy of the last known state of your remote stored locally?
+    By fetching and storing last known state of remote locally I can first look at changes presented in the remote and then decide about merging/changing/pulling etc. I can adjust my commits before pushing and merging them to avoid complicating conflicts.
