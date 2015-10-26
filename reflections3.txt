@@ -10,3 +10,6 @@ Why might you want to always pull changes manually rather than having GitHub aut
 
 4. What is the benefit of having a copy of the last known state of your remote stored locally?
     By fetching and storing last known state of remote locally I can first look at changes presented in the remote and then decide about merging/changing/pulling etc. I can adjust my commits before pushing and merging them to avoid complicating conflicts.
+5. How would you collaborate without using GitHub? What would be easier and what would be harder?
+    Easier? Can't figure out what it could be.
+    Harder? Sure, the most difficult would be to track changes made and revert back if necessary. It would be disaster to track changes of many people and keep all them in mind.
