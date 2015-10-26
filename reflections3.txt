@@ -13,3 +13,6 @@ Why might you want to always pull changes manually rather than having GitHub aut
 5. How would you collaborate without using GitHub? What would be easier and what would be harder?
     Easier? Can't figure out what it could be.
     Harder? Sure, the most difficult would be to track changes made and revert back if necessary. It would be disaster to track changes of many people and keep all them in mind.
+6. When would you want to make changes in a separate branch rather than directly in a master? What benefits does each approach have? 
+    Making changes in a separate branch allows me to experiment. I can make pull request (i.e. offer others to accept and merge) without touching master. It's kind of complicating approaches, but it's worth it if there is good chance of forthcoming adjustments in the code. 
+    On the other hand, making changes directly in a master is quick. I would use it when there is good chance my changes won't require any dramatic changes. 
